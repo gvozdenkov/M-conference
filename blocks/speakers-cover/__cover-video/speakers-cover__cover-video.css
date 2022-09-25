@@ -1,0 +1,10 @@
+.speaker-cover__cover-video {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+.speakers-cover__cover {
+  position: relative;
+  height: 600px;
+}

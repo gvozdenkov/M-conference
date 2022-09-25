@@ -1,0 +1,7 @@
+.site-logo {
+  width: 80px;
+}
+
+.top-menu_theme_dark .site-logo {
+  fill: white;
+}

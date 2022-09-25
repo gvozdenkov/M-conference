@@ -1,0 +1,6 @@
+.cover__overlay_content_centered {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+}

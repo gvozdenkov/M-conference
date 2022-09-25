@@ -1,0 +1,12 @@
+@keyframes pulse-vertical {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(15px);
+  }
+}
+
+.pulse-vertical {
+  animation: pulse-vertical 1.2s ease-in-out infinite alternate;
+}

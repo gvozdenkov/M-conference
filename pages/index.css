@@ -1,6 +1,30 @@
 @import url(../vendor/normalize.css);
 @import url(../vendor/font.css);
 
-html {
-  height: 100%;
-}
+@import url(../blocks/page/page.css);
+@import url(../blocks/page/_theme/page_theme_light.css);
+@import url(../blocks/page/__section/page__section.css);
+
+@import url(../blocks/rotate/rotate.css);
+@import url(../blocks/pulse-vertical/pulse-vertical.css);
+
+@import url(../blocks/site-logo/site-logo.css);
+
+@import url(../blocks/top-menu/top-menu.css);
+@import url(../blocks/top-menu/_theme/top-menu_theme_dark.css);
+
+@import url(../blocks/nav/nav.css);
+@import url(../blocks/nav/__link/nav__link.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__cover/header__cover.css);
+@import url(../blocks/header/__top-menu/header__top-menu.css);
+
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__overlay/cover__overlay.css);
+@import url(../blocks/cover/__overlay/_content/cover__overlay_content_centered.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__circle-element/cover__circle-element.css);
+@import url(../blocks/cover/__video/cover__video.css);
+@import url(../blocks/cover/__arrow/cover__arrow.css);
+@import url(../blocks/cover/__arrow-btn/cover__arrow-btn.css);
