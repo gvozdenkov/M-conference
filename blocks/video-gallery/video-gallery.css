@@ -1,0 +1,9 @@
+.video-gallery {
+  box-sizing: border-box;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  max-width: 1240px;
+}

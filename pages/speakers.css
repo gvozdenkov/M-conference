@@ -27,3 +27,10 @@
 @import url(../blocks/cover/__video/cover__video.css);
 
 @import url(../blocks/speakers/speakers.css);
+
+@import url(../blocks/photo-card/photo-card.css);
+@import url(../blocks/photo-card/__img/photo-card__img.css);
+@import url(../blocks/photo-card/__description/photo-card__description.css);
+@import url(../blocks/photo-card/__name/photo-card__name.css);
+@import url(../blocks/photo-card/__job/photo-card__job.css);
+@import url(../blocks/photo-card/__work/photo-card__work.css);

@@ -1,0 +1,12 @@
+.video-card {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  width: 400px;
+  display: flex;
+  flex-flow: column;
+  gap: 20px;
+  overflow: hidden;
+  position: relative;
+}
+w

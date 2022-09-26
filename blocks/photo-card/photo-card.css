@@ -1,0 +1,10 @@
+.photo-card {
+  width: 300px;
+  min-height: 400px;
+  overflow: hidden;
+  border-radius: 10px;
+  background-color: rgb(62, 62, 62);
+  position: relative;
+  box-sizing: border-box;
+  color: white;
+}

@@ -1,0 +1,8 @@
+.photo-card__work {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.2;
+  color: rgb(255, 174, 0);
+  align-self: end;
+}
