@@ -1,0 +1,4 @@
+.photo-grid__item_pos_middle {
+  grid-column-start: 2;
+  grid-column-end: 4;
+}

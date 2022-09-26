@@ -1,0 +1,4 @@
+.photo-grid__item_pos_left {
+  grid-row-start: 1;
+  grid-row-end: 4;
+}
