@@ -10,6 +10,8 @@
 
 @import url(../blocks/site-logo/site-logo.css);
 
+@import url(../blocks/section-title/section-title.css);
+
 @import url(../blocks/top-menu/top-menu.css);
 @import url(../blocks/top-menu/_theme/top-menu_theme_dark.css);
 
@@ -26,5 +28,4 @@
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__circle-element/cover__circle-element.css);
 @import url(../blocks/cover/__video/cover__video.css);
-@import url(../blocks/cover/__arrow/cover__arrow.css);
 @import url(../blocks/cover/__arrow-btn/cover__arrow-btn.css);
