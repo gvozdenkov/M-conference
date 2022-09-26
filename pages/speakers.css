@@ -28,6 +28,8 @@
 
 @import url(../blocks/speakers/speakers.css);
 
+@import url(../blocks/gallery/gallery.css);
+
 @import url(../blocks/photo-card/photo-card.css);
 @import url(../blocks/photo-card/__img/photo-card__img.css);
 @import url(../blocks/photo-card/__description/photo-card__description.css);
